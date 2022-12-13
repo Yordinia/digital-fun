@@ -1,0 +1,81 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    color: rgb(238, 255, 0);
+    display: flex;
+    gap: 2rem;
+    background: url(images/bg.png);
+}
+
+#btn {
+ width: 7rem;
+ border-radius: 0.2rem;
+ box-shadow: 3px 5px rgb(226, 208, 209);
+ margin: auto;
+ text-align: center;
+}
+
+.input-class {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap: 2rem;
+    max-width: 50%;
+}
+
+input {
+    border: rgba(229, 255, 0, 0.63);
+}
+
+.display{
+  text-align: center;
+  color: aqua;
+  background-color: pink;
+  padding-top: 2rem;
+}
+
+.display h3{
+    background: url(images/bg.png);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 200px;
+    font-size: 2rem;
+}
+
+.stored-books {
+    background-color: pink;
+    text-align: left;
+    padding: 1rem 0;
+    line-height:180%;
+    list-style-type:disc;
+    color: red;
+    padding-left: 1.5rem;
+}
+
+.stored-books li {
+    background: url(images/bg.png);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.display h3 {
+    margin: auto;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+    display: block;
+}
+
+.hide-visibility {
+  visibility: hidden;
+}
+
+.show-visibility {
+    visibility: visible;
+  }
