@@ -7,9 +7,9 @@ I'm Yordanos Temesgen (Yordi). I have background in learning and also .. learnin
 - A fulltime Microverse Student
 
 ### Deployment
-## Live Demo Deployed on [Github-Pages]()
+## Live Demo Deployed on [Github-Pages](https://yordinia.github.io/digital-fun/realtime-input-display)
 
-> Current repo [LINK](https://yordinia.github.io/digital-fun.github.io/)
+> Current repo [LINK](https://yordinia.github.io/digital-fun/realtime-input-display)
 > Online version of [MY PORTFOLIO WEBSITE](https://yordinia.github.io/A_Portfolio_Two.github.io/)
 
 ## Built With
