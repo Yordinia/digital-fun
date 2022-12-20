@@ -4,11 +4,10 @@ ___ so proud ___
 ## Flex Box 
 ![](images/flex.png)
 
-- emmet in body,
+## EMMET shortcuts,
+``` 
 h1{FLEXbOX}+(section#ID>h2{Properties of flex congainer}>(.flex-container)*6)*2
-
-# M1B5
-
+```
 
 # M2B1
 ## Modul Patterns:- AMD (asynchronous module defiition), UMD (universal module deifinition) and CommonJS (popular Node.js ecosystem)
