@@ -16,3 +16,6 @@ https://github.com/microverseinc/curriculum-professional-skills/blob/main/interv
 What makes you unique. #interview
 To answer this question, I actually have a broad list of skills which make up my USP. The first skill that I will have to elaborate is my ability to learn new languages quickly. I inrolled in microverse, which is an online school for remote devdlopers, andI was able to learn languages like ruby, react, js html and more in a space of 6 months.
  https://www.loom.com/share/0c307cdc1b904c909b3d5a5330ffcb91
+
+ # cross-cultural-communication-skills
+https://github.com/microverseinc/curriculum-professional-skills/blob/main/soft-skills/morning-session-cross-cultural-communication-skills-part1.md

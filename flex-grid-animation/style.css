@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    outline: 2px solid orange;
+}
+
+body {
+    font-family: "Lucida Sans", 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Geneva, sans-serif;
+}
+
+body h1 {
+    text-align: center;
+    font-size: 80px;
+    font-weight: bolder;
+    background-color: #333;
+    color: orange;
+    margin: 2rem 0;
+}
+
+body h2 {
+    text-align: center;
+    margin: 2rem;
+}
